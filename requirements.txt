@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+networkx
+folium
+streamlit-folium
+scikit-learn==1.6.1
+xgboost==2.1.4
+openrouteservice
+langchain
+langchain-groq
+langchain-core
+joblib
+plotly

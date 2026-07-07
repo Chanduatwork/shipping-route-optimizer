@@ -1,0 +1,22 @@
+artifact_path: /content/shipping-route-optimizer/mlruns/1/models/m-cd29d210f32e44bfa13d69f014c37935/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.13
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.3.0
+mlflow_version: 3.14.0
+model_id: m-cd29d210f32e44bfa13d69f014c37935
+model_size_bytes: 558353
+model_uuid: m-cd29d210f32e44bfa13d69f014c37935
+prompts: null
+run_id: aae4b62da0e148ae8bf9381c685a1104
+utc_time_created: '2026-07-07 02:17:39.801672'
