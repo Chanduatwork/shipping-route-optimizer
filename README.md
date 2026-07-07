@@ -3,7 +3,7 @@
 A full-stack logistics routing application that finds the optimal truck route between US freight cities using real road data, graph algorithms, machine learning, and natural language AI.
 
 ## Live App
-[Shipping Route Optimizer on Streamlit](https://your-app-url.streamlit.app)
+[Shipping Route Optimizer on Streamlit](https://shipping-route-optimizer.streamlit.app/)
 
 ## Project Overview
 
